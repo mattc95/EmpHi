@@ -10,6 +10,6 @@ Requirement:
 - Torch
 
 Train Emphi by runing the command below:
-'''
+```
 python train_emphi.py
-'''
+```
