@@ -6,7 +6,7 @@
 
 Requirement:
 - Python 3.8+
-- Parlai
+- Parlai 1.0.0
 - Torch
 
 Train Emphi by runing the command below:
