@@ -9,7 +9,7 @@ Requirement:
 - Parlai 1.0.0
 - Torch
 
-para.pkl [Click here to download]([http://www.cnblogs.com/sxdcgaq8080/p/7894828.html](https://drive.google.com/file/d/1OCJaZGGT7vTW4TAjJxkOXglKSqfTR1Gy/view?usp=sharing))
+para.pkl [Click here to download](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html](https://drive.google.com/file/d/1OCJaZGGT7vTW4TAjJxkOXglKSqfTR1Gy/view?usp=sharing)
 
 Train Emphi by runing the command below:
 ```
